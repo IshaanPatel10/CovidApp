@@ -2,7 +2,7 @@
 // Created by Ishaan Patel on 4/1/22.
 //
 
-#include "Statistics.h"
+#include "Covid.h"
 #include "Fruit.h"
 #include <string>
 #include <iostream>
