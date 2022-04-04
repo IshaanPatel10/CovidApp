@@ -1,4 +1,3 @@
-//
-// Created by Ishaan Patel on 4/4/22.
-//
-
+// Ishaan Patel
+// Main, driver, class for the covid app
+// Portfolio Project 4.4/2022

@@ -1,11 +1,14 @@
-//
-// Created by Ishaan Patel on 4/1/22.
-//
+// Ishaan Patel
+// H file for the covid county class.
+// Portfolio Project 4.4/2022
+
+
 
 #include <string>
 #include <iostream>
 #include <iomanip>
 using namespace std;
+#include "State.h"
 
 
 class Counties{

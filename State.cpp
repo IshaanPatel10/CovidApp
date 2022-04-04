@@ -1,5 +1,5 @@
-//
-// Created by Ishaan Patel on 4/4/22.
-//
+// Ishaan Patel
+// CPP file for the covid state class
+// Portfolio Project 4.4/2022
 
-#include "State.h"
+

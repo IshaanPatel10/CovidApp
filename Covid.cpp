@@ -1,6 +1,6 @@
-//
-// Created by Ishaan Patel on 4/1/22.
-//
+// Ishaan Patel
+// Covid County cpp file.
+// Portfolio Project 4.4/2022
 
 #include "Covid.h"
 #include "Fruit.h"
